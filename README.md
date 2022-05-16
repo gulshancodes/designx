@@ -5,6 +5,8 @@
 A single-page Web Services website with modern yet minimalistic design along with simple interactions and clean design pattern for enriching user experience.
 <br/>
 
+![Preview](DesignX-preview-web-by-Gulshan-Songara.png)
+
 ## Features:
 
 - #### **Fully Responsive 💯**

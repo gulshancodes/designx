@@ -1,6 +1,6 @@
 ## DesignX - Web Services Website
 
-### [Demo Link](https://designx.netlify.app) 🔗
+### [Demo Link](https://design-gx.netlify.app/) 🔗
 
 A single-page Web Services website with modern yet minimalistic design along with simple interactions and clean design pattern for enriching user experience.
 <br/>

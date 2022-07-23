@@ -2,7 +2,7 @@
 
 ### [Demo Link](https://design-gx.netlify.app/) 🔗
 
-A single-page Web Services website with modern yet minimalistic design along with simple interactions and clean design pattern for enriching user experience.
+A single-page Web Services website with a modern yet minimalistic design along with isometric illustrations and simple interactions for enriching the user experience.
 <br/>
 
 ![Preview](DesignX-preview-web-by-Gulshan-Songara.png)
@@ -23,7 +23,7 @@ A single-page Web Services website with modern yet minimalistic design along wit
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara-75084214b/)** 
+- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshansongara/)** 
 <br/>
 
 ## License:
